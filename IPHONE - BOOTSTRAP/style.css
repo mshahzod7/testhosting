@@ -1,0 +1,220 @@
+.navbar-nav a{
+    font-size: 15px;
+    margin-right: 40px;
+}
+
+.navbar{
+     background: #272d33;
+}
+
+.contener{
+    max-width: 1200px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.contener2{
+    position: relative;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.navbar-brand img{
+    margin-bottom: -50px;
+}
+
+.bg{
+    height: 1100px;
+    background-color: #1a1e22;
+    z-index: 1;
+}
+.pngimg img{
+    margin-top: 220px;
+    width: 450px;
+    height: 450px;
+    margin-left: 100px;
+}
+
+.navbar:hover{
+    background-color: #30353a ;
+}
+.crs{
+    padding-left: 700px;
+    padding-top: 200px;
+    width: 1100px; 
+}
+.txt button{
+    color: rgb(105, 115, 209);
+    border-color: rgb(105, 115, 209);
+}
+.txt button:hover{
+    color: rgb(116, 126, 214);
+    background-color: rgb(255, 255, 255);
+}
+.txt h3{
+    font-size: 25px;
+    padding-top: 5px;
+   padding-bottom: 10px;
+}
+.txtlar{
+    margin-top: -350px;
+}
+.blk{
+    display: inline-block;
+    background-color: #30353a;
+    height: 500px;
+    width: 300px;
+    border-radius: 15px;
+}
+.blk h6{
+    text-align: center;
+   font-size: 40px;
+   color: rgb(116, 126, 214);
+}
+.blk h5{
+    color: rgb(116, 126, 214);
+    font-size: 15px;
+    text-align: center;
+}
+
+.karus{
+    padding-top: 50px;
+    text-align: center;
+    width: 600px;
+}
+
+.tekstg h1{
+    font-size:24px;
+    color: rgb(116, 126, 214);
+}
+.progress{
+    width: 500px;
+}
+.prg{
+    top:  350px;
+    right: 65px;
+    position: absolute;
+}
+
+.jumbotron{
+    width: 900px;
+    height: 300px;
+    position: absolute;
+    top: 700px;
+    right: 205px;
+}
+
+.des h4{
+    font-size: 10px;
+    position: absolute;
+    top: 1050px;
+    right: 550px;
+    color: rgb(116, 126, 214);
+
+}
+.vid video{
+    width: 500px;
+    position: relative;
+    top: -500px;
+    right: -640px;
+}
+.tabb{
+    width: 750px;
+    color: rgb(105, 115, 209);
+    position: relative;
+    top: -400px;
+    right: -450px;
+}
+.klas2{
+    display: inline-block;
+    background-color: rgb(105, 115, 209);
+    height: 1px;
+    width: 750px;
+    border-radius: 40px;
+}
+.nav-link button{
+    border-color: rgb(105, 115, 209);
+}
+.klas3{
+    display: inline-block;
+    background-color: rgb(105, 115, 209);
+    height: 1px;
+    width: 505px;
+    position: relative;
+    top: -258px;
+    right: -245px;
+}
+
+.but button{
+    border-color: rgb(105, 115, 209);
+    color: rgb(105, 115, 209);
+    position: relative;
+    top: -390px;
+    right: -450px;
+}
+.fon{
+    background-color: #30353a;
+    height: 600px;
+    padding-top: 20px;
+    margin-left: -50px;
+    border-radius: 30px;
+    position: relative;
+    top: 20px;
+}
+.flexx{
+    display:flex;
+    padding-right: 10px;
+}
+.flexx button{
+    margin-right: 20px;
+}
+.flexx button:hover{
+    color: rgb(116, 126, 214);
+    background-color: rgb(255, 255, 255);
+}
+
+.zad{
+    filter: blur(1px);
+    z-index: 3;
+    display: inline-block;
+    height: 400px;
+    width: 700px;
+    background-color: #30353a;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.butt button:hover{
+    color: rgb(116, 126, 214);
+    background-color: rgb(255, 255, 255);
+}
+.butt button{
+    color: rgb(116, 126, 214);
+    border-color: rgb(116, 126, 214);
+    padding: 5p7x 7px 7px 7px;
+    border-radius: 15px;
+}
+
+.inp input{
+    border-color: rgb(116, 126, 214);
+    width: 240px;
+    height: 44px;
+    border-radius: 15px;
+    font-size: 14px;
+    text-align: center;
+    background-color: #30353a;
+    color: rgb(116, 126, 214);
+}
+
+.inp{
+    text-align: center;
+    margin-top: -320px;
+    margin-left: 450px;
+}
+.icons{
+    position: relative;
+    top: -245px;
+    right: -136px;
+}
+.icons img{
+    margin-right: 25px;
+}
